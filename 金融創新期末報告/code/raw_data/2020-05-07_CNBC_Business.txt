@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:metadata="http://search.cnbc.com/rss/2.0/modules/siteContentMetadata" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/10001147/device/rss/rss.html"/>
+    <language>en-us</language>
+    <ttl>60</ttl>
+    <title>Business News</title>
+    <feed_asset>
+      <id>10001147</id>
+      <type>franchise</type>
+      <subtype>section</subtype>
+      <seo>https://www.cnbc.com/business/</seo>
+    </feed_asset>
+    <lastBuildDate>Thu, 07 May 2020 04:34 GMT</lastBuildDate>
+    <pubDate>Thu, 07 May 2020 04:34 GMT</pubDate>
+    <link>https://www.cnbc.com/business/</link>
+    <description><![CDATA[Latest headlines for business news around the world. ]]></description>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-airlines-want-government-to-loosen-minimum-flight-rules-as-passenger-numbers-drop.html</link>
+      <guid isPermaLink="false">106523250</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523250</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Airlines want relief from flying near-empty planes as passenger numbers hit lowest since the 1950s amid virus</title>
+      <description><![CDATA[Airlines want the government to loosen the amount of air service they're required to provide as the number of passengers on board hits the lowest since the 1950s.]]></description>
+      <pubDate>Wed, 06 May 2020 21:42:13 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/shanghai-disneyland-will-offer-a-blueprint-for-reopening-other-parks.html</link>
+      <guid isPermaLink="false">106523308</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523308</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Shanghai Disneyland will offer Disney a blueprint for how to reopen its other theme parks</title>
+      <description><![CDATA[In less than a week, Disney will reopen its Shanghai theme park, offering a glimpse to the rest of the theme park industry of what operations will look like in the time of the coronavirus.]]></description>
+      <pubDate>Wed, 06 May 2020 19:55:19 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/cvs-ceo-larry-merlo-on-how-coronavirus-will-change-long-term-habits.html</link>
+      <guid isPermaLink="false">106523200</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523200</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>&apos;Today&apos;s norm to tomorrow&apos;s everyday routines,&apos; CVS CEO says the pandemic will change customers&apos; shopping, health-care habits</title>
+      <description><![CDATA[The health-care company's chief executive, Larry Merlo, said trends that emerged during the pandemic, such as use of telemedicine and prescription delivery to the home, may continue to be popular.]]></description>
+      <pubDate>Wed, 06 May 2020 22:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-who-says-there-can-be-no-going-back-to-business-as-usual.html</link>
+      <guid isPermaLink="false">106523321</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523321</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>WHO says &apos;there can be no going back to business as usual&apos; after coronavirus pandemic</title>
+      <description><![CDATA[WHO warned there can be "no going back to business as usual" following the coronavirus pandemic, which has upended economies and wreaked havoc on nearly every country.]]></description>
+      <pubDate>Wed, 06 May 2020 18:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/cold-arctic-air-could-bring-record-low-temperatures-to-eastern-us-in-may.html</link>
+      <guid isPermaLink="false">106523176</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523176</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>&apos;Very unusual&apos;: Arctic air set to hit Eastern US with record-low temperatures for May</title>
+      <description><![CDATA[The blast of cold air set to hit the Eastern U.S. this week could bring record-low temperatures and snowfall and frost in some Northeast states.]]></description>
+      <pubDate>Wed, 06 May 2020 18:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/who-says-its-in-talks-to-send-mission-to-china-to-investigate-source-of-coronavirus.html</link>
+      <guid isPermaLink="false">106523420</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523420</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>WHO says it&apos;s in talks to send mission to China to investigate source of coronavirus</title>
+      <description><![CDATA["The public health importance of this is critical because without knowing where the animal origin is it's difficult for us to prevent this from happening again," a WHO official said Wednesday.]]></description>
+      <pubDate>Wed, 06 May 2020 19:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/ny-gov-cuomo-says-its-shocking-most-new-coronavirus-hospitalizations-are-people-staying-home.html</link>
+      <guid isPermaLink="false">106523207</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523207</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Cuomo says it&apos;s &apos;shocking&apos; most new coronavirus hospitalizations are people who had been staying home</title>
+      <description><![CDATA[Early look at data from 100 New York hospitals shows that 66% of new admissions related to the virus are people who were at home, Cuomo said.]]></description>
+      <pubDate>Wed, 06 May 2020 18:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/07/how-much-does-it-cost-to-charter-a-yacht.html</link>
+      <guid isPermaLink="false">106522036</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106522036</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>You might be surprised how much it costs to charter a yacht right now</title>
+      <description><![CDATA[With the cruising industry in tatters and the desire for remote travel greater than ever, chartering a yacht can sound appealing. Here's what you get for $5,000 to $150,000.]]></description>
+      <pubDate>Thu, 07 May 2020 05:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/07/coronavirus-china-vietnam-uae-top-list-as-citizens-rank-government-response.html</link>
+      <guid isPermaLink="false">106522008</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106522008</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>China gets top score as citizens rank their governments&apos; response to the coronavirus outbreak</title>
+      <description><![CDATA[The majority of citizens feel dissatisfied with their leaders' response to the coronavirus outbreak, according to a new report, as countries across the globe have been left grappling with the fallout of the crisis.]]></description>
+      <pubDate>Thu, 07 May 2020 03:45:16 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/treasury-secretary-mnuchin-gets-into-twitter-tiff-with-axl-rose.html</link>
+      <guid isPermaLink="false">106524481</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524481</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Treasury Secretary Mnuchin gets in Twitter tiff with Axl Rose</title>
+      <description><![CDATA[Treasury Secretary Steven Mnuchin challenged hard rock musician and Guns N' Roses member Axl Rose on Twitter Wednesday evening.]]></description>
+      <pubDate>Thu, 07 May 2020 01:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/07/coronavirus-live-updates-asia-europe.html</link>
+      <guid isPermaLink="false">106524406</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524406</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Coronavirus live updates: Total cases in India jump above 50,000</title>
+      <description><![CDATA[India's total coronavirus cases in India rose to 52,952 â€” an increase of 3,561 from the previous day, according to its health ministry.]]></description>
+      <pubDate>Thu, 07 May 2020 06:06:16 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/beyond-meat-ceo-looks-to-win-consumers-over-during-meat-shortage.html</link>
+      <guid isPermaLink="false">106524114</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524114</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Beyond Meat CEO looks to &apos;win consumers&apos; over during meat supply shortage with &apos;value packs&apos;</title>
+      <description><![CDATA["We view this as a massive opportunity for us to drive trial and win consumers over into our segment," Beyond Meat CEO Ethan Brown said in a "Mad Money" interview.]]></description>
+      <pubDate>Thu, 07 May 2020 00:52:53 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/07/virus-researcher-shot-in-pennsylvania.html</link>
+      <guid isPermaLink="false">106524438</guid>
+      <metadata:type>partnerstory</metadata:type>
+      <metadata:id>106524438</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Researcher &apos;on verge of making very significant&apos; coronavirus findings shot to death</title>
+      <description><![CDATA[The University of Pittsburgh described him as an excellent mentor and prolific researcher who had co-authored more than 30 papers, NBC News reports.]]></description>
+      <pubDate>Wed, 06 May 2020 23:57:47 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/doctors-lambaste-federal-process-for-distributing-covid-19-drug-remdesivir.html</link>
+      <guid isPermaLink="false">106524423</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524423</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Doctors lambaste federal process for distributing Covid-19 drug remdesivir</title>
+      <description><![CDATA[Hospitals and physicians around the country are sharply criticizing the federal government for the uneven and opaque way it is distributing its supply of the Covid-19 drug remdesivir.]]></description>
+      <pubDate>Thu, 07 May 2020 00:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/cramer-on-wall-street-trading-trends-this-action-makes-little-sense.html</link>
+      <guid isPermaLink="false">106524326</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524326</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Jim Cramer on Wall Street trading trends: &apos;This action makes little sense&apos;</title>
+      <description><![CDATA["The staples and the retailers should be moving in opposite directions" meaning "somebody's wrong here," the "Mad Money" host said.]]></description>
+      <pubDate>Wed, 06 May 2020 23:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/cramer-lightning-round-general-dynamics-is-a-very-good-long-term-hold.html</link>
+      <guid isPermaLink="false">106524269</guid>
+      <metadata:type>blogpost</metadata:type>
+      <metadata:id>106524269</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Cramer&apos;s lightning round: &apos;General Dynamics is a very good long-term hold&apos;</title>
+      <description><![CDATA["Mad Money" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.]]></description>
+      <pubDate>Wed, 06 May 2020 23:21:18 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/jim-cramer-facebook-alphabet-and-amazon-are-the-only-ad-games-in-town.html</link>
+      <guid isPermaLink="false">106524098</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524098</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Facebook, Alphabet and Amazon are in a &apos;three-horse race&apos; in advertising, Jim Cramer says</title>
+      <description><![CDATA["With this latest quarter, they've pretty much become the only game in town," the "Mad Money" host said.]]></description>
+      <pubDate>Wed, 06 May 2020 22:48:19 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/californias-recovery-from-the-coronavirus-will-take-longer-than-people-think-gov-gavin-newsom-says.html</link>
+      <guid isPermaLink="false">106523801</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523801</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>California&apos;s recovery from the coronavirus will take &apos;longer than people think,&apos; Gov. Gavin Newsom says</title>
+      <description><![CDATA["It's going to take a lot longer than people are saying. This is serious, we've never experienced anything like this in our lifetime," Newsom said regarding California's recovery from Covid-19.]]></description>
+      <pubDate>Wed, 06 May 2020 22:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/carvana-shares-tumble-double-digits-on-first-quarter-losses.html</link>
+      <guid isPermaLink="false">106524036</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524036</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Carvana shares tumble double digits on first-quarter losses</title>
+      <description><![CDATA[Shares of Carvana tumbled double digits during after-market trading following the auto retailer reporting a net loss of $183.6 million during the first quarter.]]></description>
+      <pubDate>Wed, 06 May 2020 23:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/michigan-lawmakers-lead-congressional-push-to-include-auto-industry-in-next-stimulus-bill.html</link>
+      <guid isPermaLink="false">106524071</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524071</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Michigan lawmakers lead congressional push to include auto industry in next stimulus bill</title>
+      <description><![CDATA["The projected economic fallout for the (auto) industry is grave," reads the bipartisan letter signed by nine lawmakers from Michigan, Ohio, Tennessee, Texas and Alabama, all states with big auto manufacturing plants.]]></description>
+      <pubDate>Wed, 06 May 2020 22:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-equipment-trump-rebukes-nurse-in-white-house-exchange.html</link>
+      <guid isPermaLink="false">106523618</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523618</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Trump contradicts nurse in testy Oval Office exchange over coronavirus protective gear</title>
+      <description><![CDATA[President Donald Trump contradicted a nurse who said that access to sufficient supplies of personal protective equipment during the coronavirus pandemic "has been sporadic."]]></description>
+      <pubDate>Wed, 06 May 2020 22:17:29 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/papa-johns-ceo-rob-lynch-says-april-was-best-month-in-company-history.html</link>
+      <guid isPermaLink="false">106523449</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523449</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Papa John&apos;s CEO says April was the best month in company&apos;s history</title>
+      <description><![CDATA["We feel very confident that we have the infrastructure in place to deliver long-term, sustainable growth," Papa John's CEO Rob Lynch told CNBC.]]></description>
+      <pubDate>Wed, 06 May 2020 20:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/peloton-pton-reports-fiscal-q3-2020-earnings.html</link>
+      <guid isPermaLink="false">106521134</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106521134</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Peloton sales surge 66%, as more people buy bikes during coronavirus pandemic; shares jump</title>
+      <description><![CDATA[Peloton's revenue surged 66% during the fiscal third quarter, as more people purchased its fitness equipment and tuned into its live classes, to try to break a sweat while stuck at home during the coronavirus pandemic.]]></description>
+      <pubDate>Thu, 07 May 2020 02:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/watch-now-healthy-returns-the-path-forward-with-dr-ali-khan-university-of-nebraska-college-of-public-health.html</link>
+      <guid isPermaLink="false">106523668</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523668</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Watch now: Healthy Returns - the path forward with Dr. Ali Khan, former CDC disease detective</title>
+      <description><![CDATA[As some regions flatten the curve and other hotspots flare up, where are we in the pandemic? What is our readiness to reopen? When and what can we expect from a second wave of Covid-19? Today on "Healthy Returns: The Path Forward," Meg Tirrell interviews Dr. Ali Khan, Dean of the Public Health College at the University of Nebraska, and former disease detective with the CDC.]]></description>
+      <pubDate>Wed, 06 May 2020 20:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/united-airlines-makes-some-worker-schedule-cuts-voluntary-after-outcry-lawsuit-from-union.html</link>
+      <guid isPermaLink="false">106522935</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106522935</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>United Airlines makes some worker schedule cuts voluntary after outcry, lawsuit from union</title>
+      <description><![CDATA[United is walking back some worker schedule cuts, making them voluntary, after a lawsuit from the employees' union]]></description>
+      <pubDate>Wed, 06 May 2020 16:44:35 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/norwegian-cruise-line-raises-over-2-billion-to-withstand-well-over-a-year-without-revenue.html</link>
+      <guid isPermaLink="false">106523097</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523097</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Norwegian Cruise Line raises over $2 billion to withstand &apos;well over&apos; a year without revenue</title>
+      <description><![CDATA["When the transactions are completed, the additional liquidity alleviates management's concern about the Company's ability to continue as a going concern for the next 12 months," Norwegian said in a statement Wednesday.]]></description>
+      <pubDate>Wed, 06 May 2020 14:30:14 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/kroger-ceo-customers-will-have-meat-during-pandemic-if-they-are-flexible.html</link>
+      <guid isPermaLink="false">106523217</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523217</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Kroger CEO: Customers will have meat during the coronavirus pandemic, so long as they are &apos;flexible&apos;</title>
+      <description><![CDATA[The supermarket chain executive said Kroger is working with new meat suppliers and diverting meat that would have gone to restaurants to try to stay in stock.]]></description>
+      <pubDate>Wed, 06 May 2020 16:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-ford-and-3m-begin-shipping-respirators-to-frontline-health-workers.html</link>
+      <guid isPermaLink="false">106523281</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523281</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Ford and 3M begin shipping respirators to front-line health workers fighting coronavirus pandemic</title>
+      <description><![CDATA[About 90 United Auto Workers union members have assembled more than 10,000 respirators at a Ford plant near Flat Rock, Michigan.]]></description>
+      <pubDate>Wed, 06 May 2020 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/watch-live-who-holds-a-press-briefing-on-the-coronavirus-pandemic.html</link>
+      <guid isPermaLink="false">106523179</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523179</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic</title>
+      <description><![CDATA[WHO is holding a briefing on the Covid-19 pandemic.]]></description>
+      <pubDate>Wed, 06 May 2020 14:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/dr-scott-gottlieb-cautions-on-coronavirus-mutation-study-new-strain.html</link>
+      <guid isPermaLink="false">106522781</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106522781</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Dr. Scott Gottlieb says coronavirus mutation study &apos;doesn&apos;t prove&apos; new strain more contagious</title>
+      <description><![CDATA["Just because it mutates doesn't mean it's changing in ways that's going to make it more virulent or more infectious," Dr. Scott Gottlieb told CNBC.]]></description>
+      <pubDate>Wed, 06 May 2020 17:38:04 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

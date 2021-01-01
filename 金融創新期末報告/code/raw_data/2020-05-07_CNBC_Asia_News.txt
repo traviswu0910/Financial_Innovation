@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:metadata="http://search.cnbc.com/rss/2.0/modules/siteContentMetadata" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/19832390/device/rss/rss.html"/>
+    <language>en-us</language>
+    <ttl>60</ttl>
+    <title>Asia News</title>
+    <feed_asset>
+      <id>19832390</id>
+      <type>franchise</type>
+      <subtype>section</subtype>
+      <seo>https://www.cnbc.com/asia-news/</seo>
+    </feed_asset>
+    <lastBuildDate>Thu, 07 May 2020 01:30 GMT</lastBuildDate>
+    <pubDate>Thu, 07 May 2020 01:30 GMT</pubDate>
+    <link>https://www.cnbc.com/asia-news/</link>
+    <description><![CDATA[Read the latest stock market news and analysis on Asia Pacific in regions from Japan, China, Singapore, Australia, to New Zealand. Find business; finance; economy, stocks, and global economy news on CNBC's Asia Pacific page.]]></description>
+    <item>
+      <link>https://www.cnbc.com/2020/05/07/investor-fear-of-missing-out-not-a-good-sign-for-the-markets-morgan-stanley.html</link>
+      <guid isPermaLink="false">106522105</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106522105</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Investor fear of missing out is &apos;not a good sign&apos; for markets, warns Morgan Stanley</title>
+      <description><![CDATA[Morgan Stanley Investment Management's Andrew Harmstone advises investors to keep their portoflio risk level low and maintain a defensive position while looking for opportunities to add value in an environment of "extremely high" volatility.]]></description>
+      <pubDate>Thu, 07 May 2020 01:06:52 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/07/coronavirus-live-updates-asia-europe.html</link>
+      <guid isPermaLink="false">106524406</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524406</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Coronavirus live updates: Total cases in India jump above 50,000</title>
+      <description><![CDATA[India's total coronavirus cases in India rose to 52,952 — an increase of 3,561 from the previous day, according to its health ministry.]]></description>
+      <pubDate>Thu, 07 May 2020 06:06:16 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/07/asia-markets-caixin-services-pmi-coronavirus-oil-currencies-in-focus.html</link>
+      <guid isPermaLink="false">106524381</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524381</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Asia stocks little changed as data shows China&apos;s exports unexpectedly rose in April</title>
+      <description><![CDATA[China's Caixin/Markit services Purchasing Managers' Index for April showed that the country's services sector slumped for the third straight month, as layoffs hit a record.]]></description>
+      <pubDate>Thu, 07 May 2020 04:19:16 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/californias-recovery-from-the-coronavirus-will-take-longer-than-people-think-gov-gavin-newsom-says.html</link>
+      <guid isPermaLink="false">106523801</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523801</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>California&apos;s recovery from the coronavirus will take &apos;longer than people think,&apos; Gov. Gavin Newsom says</title>
+      <description><![CDATA["It's going to take a lot longer than people are saying. This is serious, we've never experienced anything like this in our lifetime," Newsom said regarding California's recovery from Covid-19.]]></description>
+      <pubDate>Wed, 06 May 2020 22:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/who-says-its-in-talks-to-send-mission-to-china-to-investigate-source-of-coronavirus.html</link>
+      <guid isPermaLink="false">106523420</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523420</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>WHO says it&apos;s in talks to send mission to China to investigate source of coronavirus</title>
+      <description><![CDATA["The public health importance of this is critical because without knowing where the animal origin is it's difficult for us to prevent this from happening again," a WHO official said Wednesday.]]></description>
+      <pubDate>Wed, 06 May 2020 19:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/ny-gov-cuomo-says-its-shocking-most-new-coronavirus-hospitalizations-are-people-staying-home.html</link>
+      <guid isPermaLink="false">106523207</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523207</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Cuomo says it&apos;s &apos;shocking&apos; most new coronavirus hospitalizations are people who had been staying home</title>
+      <description><![CDATA[Early look at data from 100 New York hospitals shows that 66% of new admissions related to the virus are people who were at home, Cuomo said.]]></description>
+      <pubDate>Wed, 06 May 2020 18:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-who-says-there-can-be-no-going-back-to-business-as-usual.html</link>
+      <guid isPermaLink="false">106523321</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523321</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>WHO says &apos;there can be no going back to business as usual&apos; after coronavirus pandemic</title>
+      <description><![CDATA[WHO warned there can be "no going back to business as usual" following the coronavirus pandemic, which has upended economies and wreaked havoc on nearly every country.]]></description>
+      <pubDate>Wed, 06 May 2020 18:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/nyc-had-to-move-more-than-250-homeless-people-out-of-subways-to-disinfect-trains.html</link>
+      <guid isPermaLink="false">106523252</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523252</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>NYC had to move more than 250 homeless people out of subways to disinfect trains</title>
+      <description><![CDATA[More than 250 homeless people were moved out of New York City subway trains, as the city's subway system closed early Wednesday to begin its first scheduled shutdown to help prevent the spread of the coronavirus.]]></description>
+      <pubDate>Wed, 06 May 2020 17:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/watch-live-new-york-gov-andrew-cuomo-holds-a-press-conference-on-the-coronavirus-outbreak.html</link>
+      <guid isPermaLink="false">106523142</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523142</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Watch live: New York Gov. Andrew Cuomo holds a press conference on the coronavirus outbreak</title>
+      <description><![CDATA[New York Gov. Andrew Cuomo is holding his daily press conference on the Covid-19 outbreak, which has infected more than 321,100 people across the state as of Wednesday.]]></description>
+      <pubDate>Wed, 06 May 2020 15:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/watch-live-who-holds-a-press-briefing-on-the-coronavirus-pandemic.html</link>
+      <guid isPermaLink="false">106523179</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523179</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic</title>
+      <description><![CDATA[WHO is holding a briefing on the Covid-19 pandemic.]]></description>
+      <pubDate>Wed, 06 May 2020 14:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-latest-updates.html</link>
+      <guid isPermaLink="false">106522687</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106522687</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Trump contradicts nurse over PPE, Costco sees drop off as customers stay at home</title>
+      <description><![CDATA[Covid-19 has infected more than 3.7 million people around the world as of Wednesday, killing at least 259,796 people.]]></description>
+      <pubDate>Thu, 07 May 2020 00:56:59 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-millions-of-people-expected-to-fall-ill-with-tuberculosis.html</link>
+      <guid isPermaLink="false">106522643</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106522643</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Millions of people are expected to fall ill with tuberculosis due to coronavirus lockdown</title>
+      <description><![CDATA["This situation makes me sick, because (it) is totally avoidable," Lucica Ditiu, executive director of the Stop TB Partnership, said.]]></description>
+      <pubDate>Wed, 06 May 2020 12:41:43 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/indias-services-activity-collapses-during-coronavirus-lockdown-ihs-survey.html</link>
+      <guid isPermaLink="false">106522120</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106522120</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>India&apos;s services activity collapses as country shuts down to battle the coronavirus, a private survey shows</title>
+      <description><![CDATA[The IHS Markit India Services Business Activity Index for April came in at 5.4 — much lower than a Reuters poll forecast of 40 and the previous month's 49.3.]]></description>
+      <pubDate>Wed, 06 May 2020 06:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-singapore-is-not-halfway-through-outbreak-says-minister.html</link>
+      <guid isPermaLink="false">106522003</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106522003</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Singapore is not yet halfway through its coronavirus outbreak, says minister</title>
+      <description><![CDATA[Migrant workers living dormitories have accounted for around 87.6% of Singapore's total 19,410 confirmed cases as of Tuesday, according to the health ministry.]]></description>
+      <pubDate>Wed, 06 May 2020 06:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-pandemics-impact-on-travel-tourism-in-5-charts.html</link>
+      <guid isPermaLink="false">106517974</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106517974</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>5 charts show which travel sectors were worst hit by the coronavirus</title>
+      <description><![CDATA[From spring breaks to summer holidays, the coronavirus pandemic has disrupted travel plans globally as lockdown measures keep much of the world's population at home.]]></description>
+      <pubDate>Wed, 06 May 2020 04:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-latest-updates-asia-europe.html</link>
+      <guid isPermaLink="false">106521919</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106521919</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Spain&apos;s daily death toll rises again; EU to see sharp economic decline</title>
+      <description><![CDATA[Johns Hopkins University data showed over 3.65 million people have now been infected with the coronavirus and more than 256,800 have died.]]></description>
+      <pubDate>Wed, 06 May 2020 12:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/asia-markets-coronavirus-oil-currencies-in-focus.html</link>
+      <guid isPermaLink="false">106521870</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106521870</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Asia stocks rise; oil prices pare gains following surge</title>
+      <description><![CDATA[Oil prices fell in the afternoon of Asian trading hours on Wednesday after surging on Tuesday as they got a boost from optimism around ongoing production cuts and a recovery in demand as economies reopen.]]></description>
+      <pubDate>Wed, 06 May 2020 07:21:12 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/texas-hair-nail-and-tanning-salons-to-reopen-this-week-gyms-next-governor-says.html</link>
+      <guid isPermaLink="false">106521696</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106521696</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Texas hair, nail and tanning salons to reopen this week, gyms next, governor says</title>
+      <description><![CDATA[Abbott said on May 18, he would also allow gyms and exercise facilities to reopen with 25% occupancy as long as showers and locker rooms remained closed.]]></description>
+      <pubDate>Tue, 05 May 2020 22:47:54 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/the-coronavirus-mutated-and-appears-to-be-more-contagious-now-new-study-finds.html</link>
+      <guid isPermaLink="false">106520919</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106520919</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>The coronavirus has mutated and appears to be more contagious now, new study finds</title>
+      <description><![CDATA[The new coronavirus strain began spreading in Europe in early February before migrating to other parts of the world, including the U.S., becoming the dominant form of the virus across the globe by the end of March, researchers at the Los Alamos National Laboratory found in a new study.]]></description>
+      <pubDate>Wed, 06 May 2020 16:37:18 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/watch-live-new-jersey-gov-phil-murphy-holds-a-press-conference-on-the-coronavirus-outbreak.html</link>
+      <guid isPermaLink="false">106520910</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106520910</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Watch live: New Jersey Gov. Phil Murphy holds a press conference on the coronavirus outbreak</title>
+      <description><![CDATA[On Monday, the governor directed all private and public school leaders to update their preparedness plans to continue remote learning for the rest of the school year.]]></description>
+      <pubDate>Tue, 05 May 2020 16:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/coronavirus-ny-gov-cuomo-rebukes-trump-on-bailouts-for-democratic-states.html</link>
+      <guid isPermaLink="false">106520897</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106520897</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>New York Gov. Cuomo rebukes Trump, says coronavirus &apos;doesn&apos;t pick Democrats or Republicans&apos;</title>
+      <description><![CDATA[Cuomo, a Democrat whose state is the U.S. epicenter for the outbreak, sharply criticized the partisan rhetoric from Trump, who said he's opposed to sending federal emergency aid to states.]]></description>
+      <pubDate>Tue, 05 May 2020 17:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/nyc-officials-alarmed-with-rise-in-rare-disease-affecting-some-kids-with-coronavirus-mayor-says.html</link>
+      <guid isPermaLink="false">106520785</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106520785</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>NYC officials alarmed with rise in rare disease affecting some kids with coronavirus, Mayor de Blasio says</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Tue, 05 May 2020 14:59:49 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/coronavirus-nyc-mayor-de-blasio-calls-trump-a-hypocrite-putting-politics-first.html</link>
+      <guid isPermaLink="false">106520735</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106520735</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>NYC Mayor de Blasio says Trump is putting politics first in coronavirus response: &apos;He&apos;s a pure hypocrite&apos;</title>
+      <description><![CDATA[Mayor Bill de Blasio said Trump's "a pure hypocrite" for saying he's not inclined to bail out states, especially those run by Democrats, but is helping big businesses.]]></description>
+      <pubDate>Tue, 05 May 2020 17:16:49 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/watch-live-new-york-gov-andrew-cuomo-holds-a-press-conference-on-the-coronavirus-outbreak.html</link>
+      <guid isPermaLink="false">106520624</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106520624</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Watch live: New York Gov. Andrew Cuomo holds a press conference on the coronavirus outbreak</title>
+      <description><![CDATA[New York Gov. Andrew Cuomo is holding his daily press conference on the Covid-19 outbreak, which has infected more than 318,900 people across the state as of Tuesday.]]></description>
+      <pubDate>Tue, 05 May 2020 13:53:39 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/coronavirus-latest-updates.html</link>
+      <guid isPermaLink="false">106520312</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106520312</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Trump says &apos;bailouts&apos; for blue states are unfair to Republicans, Airbnb to lay off 25% of staff</title>
+      <description><![CDATA[Covid-19 has infected more than 3.6 million people around the world as of Tuesday, killing at least 254,430 people.]]></description>
+      <pubDate>Wed, 06 May 2020 01:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/coronavirus-ex-trump-trade-official-clete-willems-on-us-china-tensions.html</link>
+      <guid isPermaLink="false">106519713</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106519713</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>&apos;This is the start of a new Cold War,&apos; former Trump trade official says of rising US-China tensions</title>
+      <description><![CDATA[Among the latest disputes between the U.S. and China is the origin of the coronavirus, which has infected more than 3 million people and killed over 250,000 globally, data by Johns Hopkins University showed.]]></description>
+      <pubDate>Tue, 05 May 2020 06:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/how-new-zealand-brought-new-coronavirus-cases-down-to-zero.html</link>
+      <guid isPermaLink="false">106518682</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106518682</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>How New Zealand&apos;s &apos;eliminate&apos; strategy brought new coronavirus cases down to zero</title>
+      <description><![CDATA[New Zealand's government claims the country could have seen thousands of coronavirus cases every day if strict lockdown measures hadn't been implemented.]]></description>
+      <pubDate>Tue, 05 May 2020 06:14:43 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/coronavirus-latest-updates-asia-europe.html</link>
+      <guid isPermaLink="false">106519629</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106519629</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Russia sees a further 10,000+ coronavirus cases; Spain&apos;s daily death toll stable</title>
+      <description><![CDATA[More than 251,000 people around the world have died from Covid-19 and over 3.5 million people have been infected, according to data from Johns Hopkins University.]]></description>
+      <pubDate>Tue, 05 May 2020 11:40:44 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/asia-markets-rba-rate-decision-us-china-tensions-coronavirus-in-focus.html</link>
+      <guid isPermaLink="false">106519605</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106519605</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Stocks in Hong Kong rise as the city&apos;s economy takes a hit in first quarter</title>
+      <description><![CDATA[Hong Kong's government announced on Monday that the city's economy contracted 8.9% in the first quarter as compared to a year ago — its largest decline on record since 1974.]]></description>
+      <pubDate>Tue, 05 May 2020 08:39:55 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/04/california-gov-gavin-newsom-says-some-businesses-will-reopen-friday-with-conditions.html</link>
+      <guid isPermaLink="false">106519049</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106519049</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>California Gov. Gavin Newsom says some businesses will reopen Friday, with conditions</title>
+      <description><![CDATA[California Gov. Gavin Newsom on Monday said some of the state's retail businesses could begin reopening with modifications by the end of this week if certain criteria are met.]]></description>
+      <pubDate>Tue, 05 May 2020 00:15:47 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

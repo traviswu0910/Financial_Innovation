@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:metadata="http://search.cnbc.com/rss/2.0/modules/siteContentMetadata" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/10000101/device/rss/rss.html"/>
+    <language>en-us</language>
+    <ttl>60</ttl>
+    <title>Autos</title>
+    <feed_asset>
+      <id>10000101</id>
+      <type>franchise</type>
+      <subtype>section</subtype>
+      <seo>https://www.cnbc.com/autos/</seo>
+    </feed_asset>
+    <lastBuildDate>Wed, 06 May 2020 22:04 GMT</lastBuildDate>
+    <pubDate>Wed, 06 May 2020 22:04 GMT</pubDate>
+    <link>https://www.cnbc.com/autos/</link>
+    <description><![CDATA[Find the latest news on car recalls and automobile manufacturers, as well as industry insights from Behind the Wheel, from CNBC.com.]]></description>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/carvana-shares-tumble-double-digits-on-first-quarter-losses.html</link>
+      <guid isPermaLink="false">106524036</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524036</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Carvana shares tumble double digits on first-quarter losses</title>
+      <description><![CDATA[Shares of Carvana tumbled double digits during after-market trading following the auto retailer reporting a net loss of $183.6 million during the first quarter.]]></description>
+      <pubDate>Wed, 06 May 2020 23:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/michigan-lawmakers-lead-congressional-push-to-include-auto-industry-in-next-stimulus-bill.html</link>
+      <guid isPermaLink="false">106524071</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106524071</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Michigan lawmakers lead congressional push to include auto industry in next stimulus bill</title>
+      <description><![CDATA["The projected economic fallout for the (auto) industry is grave," reads the bipartisan letter signed by nine lawmakers from Michigan, Ohio, Tennessee, Texas and Alabama, all states with big auto manufacturing plants.]]></description>
+      <pubDate>Wed, 06 May 2020 22:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/lyft-earnings-q1-2020.html</link>
+      <guid isPermaLink="false">106521204</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106521204</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Lyft shares jump 15% as company reports more riders than last year despite coronavirus</title>
+      <description><![CDATA[Lyft reports its first-quarter results on Wednesday after the bell.]]></description>
+      <pubDate>Wed, 06 May 2020 21:30:46 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/coronavirus-ford-and-3m-begin-shipping-respirators-to-frontline-health-workers.html</link>
+      <guid isPermaLink="false">106523281</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106523281</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Ford and 3M begin shipping respirators to front-line health workers fighting coronavirus pandemic</title>
+      <description><![CDATA[About 90 United Auto Workers union members have assembled more than 10,000 respirators at a Ford plant near Flat Rock, Michigan.]]></description>
+      <pubDate>Wed, 06 May 2020 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/5-things-to-know-before-the-stock-market-opens-may-6-2020.html</link>
+      <guid isPermaLink="false">106522768</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106522768</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>5 things to know before the stock market opens Wednesday</title>
+      <description><![CDATA[Dow futures trimmed earlier gains as U.S. oil prices turned lower after a five-session winning streak.]]></description>
+      <pubDate>Wed, 06 May 2020 13:54:09 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/06/general-motors-gm-earnings-q1-2020.html</link>
+      <guid isPermaLink="false">106519076</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106519076</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>General Motors ekes out $294 million profit in the first quarter despite crippling production and sales from coronavirus</title>
+      <description><![CDATA[The Covid-19 outbreak cut deeply into GM's performance, costing the largest U.S. automaker $1.4 billion before taxes during the first three months.]]></description>
+      <pubDate>Wed, 06 May 2020 13:51:37 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/this-wartime-law-gives-trump-exceptional-power-over-us-economy.html</link>
+      <guid isPermaLink="false">106518964</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106518964</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>This wartime law gives Trump exceptional power over US economy</title>
+      <description><![CDATA[President Trump has invoked a Korean War-era law to fight the coronavirus pandemic. The Defense Production Act gives the president extraordinary powers over the U.S. economy, which supporters of the move say is necessary to contain the disease.]]></description>
+      <pubDate>Tue, 05 May 2020 15:12:10 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/fca-fcau-q1-2020-results.html</link>
+      <guid isPermaLink="false">106520385</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106520385</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Fiat Chrysler to restart US production in two weeks after coronavirus shutdowns lead to $1.8 billion quarterly loss</title>
+      <description><![CDATA[Despite the "unexpected and unprecedented times" due to Covid-19, the company, said Tuesday that it and French automaker PSA Group "remain committed" to a previously announced merger of equals.]]></description>
+      <pubDate>Tue, 05 May 2020 14:59:36 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/uk-auto-sales-plummet-to-lowest-level-since-1946-as-coronavirus-hits.html</link>
+      <guid isPermaLink="false">106520306</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106520306</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>UK auto sales plummet to lowest level since 1946</title>
+      <description><![CDATA[Car sales for April have hit historic lows.]]></description>
+      <pubDate>Tue, 05 May 2020 11:31:05 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/04/ferrari-is-now-worth-more-than-general-motors-and-ford.html</link>
+      <guid isPermaLink="false">106518671</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106518671</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Ferrari is now worth more than General Motors and Ford</title>
+      <description><![CDATA[Ferrari's market value surged to $30 billion Monday morning, more than the value of General Motors or Ford Motor.]]></description>
+      <pubDate>Tue, 05 May 2020 18:27:43 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/04/coronavirus-ceo-says-usaa-sees-uptick-in-car-crashes-after-steep-decline.html</link>
+      <guid isPermaLink="false">106518697</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106518697</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>USAA chief: Coronavirus &apos;cabin fever&apos; may be behind car crash uptick after initial steep decline</title>
+      <description><![CDATA["The last couple of weeks we've seen a slight uptick in those rates, certainly not because stores are reopening," USAA CEO Wayne Peacock told CNBC.]]></description>
+      <pubDate>Mon, 04 May 2020 18:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/04/elon-musks-lavish-la-mansions-sale.html</link>
+      <guid isPermaLink="false">106518130</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106518130</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Elon Musk&apos;s lavish LA mansions appear to be listed for sale days after billionaire pledged to &apos;own no house&apos;</title>
+      <description><![CDATA[The homes have a combined value of $39.5 million.]]></description>
+      <pubDate>Thu, 07 May 2020 00:16:37 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/04/electric-cars-take-the-spotlight-in-chinas-post-coronavirus-stimulus-plans.html</link>
+      <guid isPermaLink="false">106513313</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106513313</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Electric cars take the spotlight in China&apos;s post-coronavirus stimulus plans</title>
+      <description><![CDATA[Jing Yang, director of corporate research at Fitch Ratings, expects electric vehicles to outperform an overall slump in China's car sales this year given strong policy support.]]></description>
+      <pubDate>Wed, 06 May 2020 02:45:46 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/02/musks-covid-19-orders-rant-highlights-problems-of-reopening-plants.html</link>
+      <guid isPermaLink="false">106516093</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106516093</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Tesla CEO Elon Musk&apos;s coronavirus rant highlights just one of many hurdles automakers face in reopening plants</title>
+      <description><![CDATA[In reopening plants, automakers face worker safety issues and must abide by local mandates, which Tesla CEO Elon Musk highlighted earlier this week. Then there are more complex problems.]]></description>
+      <pubDate>Sat, 02 May 2020 14:01:01 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/01/tesla-tells-furloughed-workers-expect-a-week-or-more-of-unemployment.html</link>
+      <guid isPermaLink="false">106516441</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106516441</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Tesla tells furloughed workers to expect a week or more of unemployment</title>
+      <description><![CDATA[On Friday, Tesla braced its furloughed U.S. employees for at least another week of unemployment, wrapping up a wild week that included expletives and wild tweets from CEO Elon Musk.]]></description>
+      <pubDate>Sat, 02 May 2020 02:23:46 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/01/feds-clear-general-motors-in-uaw-union-corruption-probe.html</link>
+      <guid isPermaLink="false">106516212</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106516212</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Feds clear General Motors in UAW union corruption probe</title>
+      <description><![CDATA[Federal prosecutors this week informed GM that it is not currently a target in a yearslong investigation into corruption of the United Auto Workers union.]]></description>
+      <pubDate>Fri, 01 May 2020 21:27:24 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/01/coronavirus-could-help-tesla-retain-ev-lead-as-traditional-automakers-pare-back-electric-investments.html</link>
+      <guid isPermaLink="false">106514236</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106514236</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Coronavirus could help Tesla retain EV lead as traditional automakers pare electric investments</title>
+      <description><![CDATA[Many of the new EVs that were supposed to enter the U.S. market to challenge the California carmaker this year are being delayed.]]></description>
+      <pubDate>Fri, 01 May 2020 13:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/30/coronavirus-ford-plans-health-screenings-temperature-checks-to-bring-office-workers-back-beginning-in-june.html</link>
+      <guid isPermaLink="false">106514862</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106514862</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Ford plans health screenings, temperature checks to bring office workers back beginning in June</title>
+      <description><![CDATA[Ford Motor expects to begin calling back salaried employees who have been working remotely due to the coronavirus pandemic beginning in late June, executives said Thursday.]]></description>
+      <pubDate>Thu, 30 Apr 2020 19:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/30/dr-scott-gottlieb-reacts-to-elon-musks-rant-against-lockdown-orders.html</link>
+      <guid isPermaLink="false">106514060</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106514060</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Elon Musk&apos;s F-bomb rant against lockdowns reflects &apos;growing sentiment,&apos; says Dr. Scott Gottlieb</title>
+      <description><![CDATA["That's going to tug against what the governors have to do," the former FDA chief told CNBC. "We still face a pretty big epidemic in this country."]]></description>
+      <pubDate>Thu, 30 Apr 2020 17:10:50 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/30/mercedes-benz-reopened-an-alabama-auto-plant-heres-how-it-happened.html</link>
+      <guid isPermaLink="false">106513831</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106513831</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Mercedes-Benz reopened an Alabama auto plant. Here&apos;s how it happened</title>
+      <description><![CDATA[Daimler, which owns Mercedes-Benz, says it took "robust and best practice safety measures" to ensure that the reopening of the plant was safe for its 4,200 workers.]]></description>
+      <pubDate>Thu, 30 Apr 2020 15:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/30/5-things-to-know-before-the-stock-market-opens-april-30-2020.html</link>
+      <guid isPermaLink="false">106513953</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106513953</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>5 things to know before the stock market opens Thursday</title>
+      <description><![CDATA[Dow futures drop Thursday after another avalanche of weekly jobless claims and a crush of earnings.]]></description>
+      <pubDate>Thu, 30 Apr 2020 12:55:47 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/30/cars-could-go-completely-driverless-very-soon-ceo-of-chinas-autox.html</link>
+      <guid isPermaLink="false">106511100</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106511100</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Cars could go completely driverless &apos;very soon,&apos; says CEO of Chinese autonomous driving tech start-up</title>
+      <description><![CDATA[Currently, most regulations across various cities in China still require the presence of a safety driver in vehicles.]]></description>
+      <pubDate>Thu, 30 Apr 2020 04:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/29/elon-musk-slams-coronavirus-shelter-in-place-orders-as-fascist.html</link>
+      <guid isPermaLink="false">106513158</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106513158</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Elon Musk says orders to stay home are &apos;fascist&apos; in expletive-laced rant during Tesla earnings call</title>
+      <description><![CDATA[Tesla CEO Elon Musk lashed out at government stay at home orders as "fascist" in an expletive-laced rant on Tesla's Q1 earnings call.]]></description>
+      <pubDate>Thu, 30 Apr 2020 17:11:40 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/29/tesla-delays-semi-production-and-deliveries-until-2021.html</link>
+      <guid isPermaLink="false">106512878</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106512878</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Tesla delays Semi production and deliveries until 2021</title>
+      <description><![CDATA[In 2017, when Tesla unveiled the Semi to great fanfare, Musk said the battery-electric class 8 trucks would be delivered to customers in 2019. Now the Tesla Semi program is two years behind schedule.]]></description>
+      <pubDate>Wed, 29 Apr 2020 21:42:55 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/29/tesla-tsla-earnings-q1-2020.html</link>
+      <guid isPermaLink="false">106510675</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106510675</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Tesla rises as company ekes out a Q1 profit</title>
+      <description><![CDATA[The Covid-19 outbreak in China forced Tesla to stop manufacturing electric vehicles in Shanghai for more than a week in February and in the U.S. at the end of March.]]></description>
+      <pubDate>Thu, 30 Apr 2020 00:37:49 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/29/coronavirus-trump-to-meet-waffle-house-wynn-toyota-executives-on-economy.html</link>
+      <guid isPermaLink="false">106512326</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106512326</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Trump to meet with executives from Waffle House, Wynn, Toyota, others to discuss reopening economy</title>
+      <description><![CDATA[Trump has been soliciting feedback from a wide range of executives on when and how to reopen businesses that have shuttered their doors amid the coronavirus pandemic.]]></description>
+      <pubDate>Wed, 29 Apr 2020 21:18:19 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/29/tesla-drops-do-insurance-board-to-rely-on-elon-musk-for-legal-costs.html</link>
+      <guid isPermaLink="false">106510805</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106510805</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Tesla board members must now rely on Elon Musk to pay legal expenses</title>
+      <description><![CDATA[Tesla will forego an important type of business insurance policy this year, leaving board members at Tesla reliant on CEO Elon Musk to pay for their legal defense and settlements in many cases.]]></description>
+      <pubDate>Wed, 29 Apr 2020 14:56:13 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/29/chinas-battered-tesla-rival-nio-brushes-off-coronavirus-impact.html</link>
+      <guid isPermaLink="false">106511412</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106511412</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>China&apos;s battered Tesla rival Nio brushes off coronavirus impact, says the worst is over</title>
+      <description><![CDATA["Nio hasn't lowered its annual forecast as a result of the virus," CEO William Li said, according to a CNBC translation of his Mandarin-language remarks.]]></description>
+      <pubDate>Wed, 29 Apr 2020 09:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/28/heres-how-tesla-and-spacex-worked-with-and-paid-each-other-in-the-past-year.html</link>
+      <guid isPermaLink="false">106510249</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106510249</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Here&apos;s how Tesla and SpaceX worked with and paid each other in the past year</title>
+      <description><![CDATA[Among other ways the companies work together, and pay each other, a new filing reveals that SpaceX bought $600,000 worth of Tesla car parts in the first quarter of 2020 alone.]]></description>
+      <pubDate>Wed, 29 Apr 2020 01:46:06 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/28/ford-f-earnings-q1-2020.html</link>
+      <guid isPermaLink="false">106510010</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106510010</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Ford projects adjusted pretax loss of $5 billion in the second quarter</title>
+      <description><![CDATA[Wall Street is watching to see how much cash Ford burned in the quarter as well as any guidance for the second-quarter and beyond.]]></description>
+      <pubDate>Thu, 30 Apr 2020 13:30:26 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

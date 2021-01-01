@@ -1,0 +1,334 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel=stylesheet type="text/css" href="{{ url_for('static', filename='main.css') }}">
+        <!-- <link rel=stylesheet type="text/css" href="{{ url_for('static', filename='main_fix.css') }}"> -->
+        <!--Basic settings above-->
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+        <script>
+            $(function(){
+                $("#datepicker").datepicker();
+                <!--$("#datepicker").datepicker("setDate", new Date());-->
+            });
+
+            $(function(){
+                $("#tabs").tabs();
+            });
+        </script>
+        <!--Datepicker/Tabs code above-->
+
+    </head>
+    
+    <body> 
+        <!--Input Section-->
+        <div class="toppane">
+            <div class="vertical-center">
+            
+                <form action="main.html" method="post">
+                Date <input type="text" id="datepicker" name="datepicker" value={{date}}></td>
+                Portfolio: 
+                    <select id="portfolio" name="portfolio">
+                        <option value="pph_1" {{selected['pph_1']}}>日報酬超過 5%</option>
+                        <option value="pph_2" {{selected['pph_2']}}>日報酬低於 5%</option>
+                        <option value="pph_3" {{selected['pph_3']}}>周報酬超過 10%</option>
+                        <option value="pph_4" {{selected['pph_4']}}>周報酬低於 10%</option>
+                        <option value="pph_5" {{selected['pph_5']}}>月報酬超過 20%</option>
+                    </select>
+                <div class="ikeyword">Keyword: <input type="text" id="ikeyword" name="ikeyword" value={{keyword}}><input type="submit" id="keysubmit" name="keysubmit" value="search"></div>
+            </form>
+            
+            </div>
+        </div>
+        
+        <!--Portfolio Display Section-->
+        <div class="leftpane">
+            <p class='pane-title'>Portfolio Information</p>
+            <div class="portfolio_panel" name="portfolio_panel">
+                {% for stock in portfolio %}
+                    <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; background-color: #909090 ; cursor: pointer;">
+                        {{ stock }}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!--General Display Section-->
+        <div class="middlepane">
+            <p class='pane-title'>Portfolio News</p>
+            <div class="general_panel" name="general_panel">
+                {% for news in portfolio_news %}
+                <a style="text-decoration: none" href={{ news['link']}} onclick="submit_message({{ news }}, '1');" target="_blank">
+                    <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; background-color: #909090 ; cursor: pointer;">
+                        {{ news['title']}}
+                        
+                    </div>
+                </a>
+                <div style="font-size: 8pt; text-align: justify; color:white">
+                 &ensp;Pubdate &ensp;:&ensp;{{ news['pubdate']}}  <br/> &ensp; Source&ensp;:&ensp;{{ news['source']}}
+                 <br/> Company:&ensp;:&ensp;<b>{{news['title_company']}}</b>
+                </div>
+                {% endfor %}        
+            </div>
+        </div>
+        
+        <!--News Display Section-->
+        <div class="rightpane">
+            <p class='pane-title'>Top News</p>
+            <div class="news_panel margin-right" name="news_panel">
+                {{key1}}<br>
+                {% for news in top_news_list_1 %}
+                <a style="text-decoration: none" href={{ news['link']}} onclick="submit_message({{ news }}, '1');" target="_blank">
+                    <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; background-color: #909090 ; cursor: pointer;">
+                        {{ news['title']}}
+                    </div>
+                </a>
+                <div style="font-size: 8pt; text-align: justify; color:white">
+                 &ensp;Pubdate &ensp;:&ensp;{{ news['pubdate']}}  <br/> &ensp; Source&ensp;:&ensp;{{ news['source']}}
+                </div>
+                {% endfor %}
+            </div>
+            <div class="news_panel margin-right" name="news_panel">
+                {{key2}}<br>
+                {% for news in top_news_list_2 %}
+                    <a style="text-decoration: none" href={{ news['link']}} onclick="submit_message({{ news }}, '2');" target="_blank">
+                        <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; background-color: #909090 ; cursor: pointer;">
+                            {{ news['title']}}
+                        </div>
+                    </a>
+                <div style="font-size: 8pt; text-align: justify; color:white">
+                 &ensp;Pubdate &ensp;:&ensp;{{ news['pubdate']}}  <br/> &ensp; Source&ensp;:&ensp;{{ news['source']}}
+                </div>
+                {% endfor %}
+            </div>
+            <div class="news_panel" name="news_panel">
+                {{key3}}<br>
+                {% for news in top_news_list_3 %}
+                    <a style="text-decoration: none" href={{ news['link']}} onclick="submit_message({{ news }}, '3');" target="_blank">
+                        <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px;background-color: #909090 ; cursor: pointer;">
+                            {{ news['title']}}
+                        </div>
+                    </a>
+                <div style="font-size: 8pt; text-align: justify; color:white">
+                 &ensp;Pubdate &ensp;:&ensp;{{ news['pubdate']}}  <br/> &ensp; Source&ensp;:&ensp;{{ news['source']}}
+                </div>
+                {% endfor %}
+            </div> 
+        </div>
+
+        <!--General Recommendation Display Section-->
+        <div class="bottompane">
+            <div class="w3-bar w3-black">
+                <button class="button-text w3-bar-item w3-button" onclick="openCity('trends')">Market Trends</button>
+                <button class="button-text w3-bar-item w3-button" onclick="openCity('top')">Twitter Top</button>
+                <button class="button-text w3-bar-item w3-button" onclick="openCity('celeb1')">Celebrity 1</button>
+                <button class="button-text w3-bar-item w3-button" onclick="openCity('celeb2')">Celebrity 2</button>
+                <button class="button-text w3-bar-item w3-button" onclick="openCity('celeb3')">Celebrity 3</button>
+            </div>
+
+            <div id="trends" class="w3-container w3-display-container city"><div class="tabs_panel" name="tabs_panel">
+<!--   Willy todo -->
+                <canvas id="myChart"></canvas>
+                <script>
+                    var ret = {{ret|tojson}};
+                    var companies = [];
+                    var bgColor = [
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(153, 102, 255, 0.2)',
+                        'rgba(255, 159, 64, 0.2)'
+                    ];
+                    var bdColor = [
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(255, 159, 64, 1)'
+                    ];
+                    var count=0;
+                    ret.forEach(
+                        (company) => {
+                            var r = Math.floor(Math.random()*256);
+                            var g = Math.floor(Math.random()*256);
+                            var b = Math.floor(Math.random()*256);
+                            companies.push({
+                                label: company['company'],
+                                data: [
+                                    company['day'],
+                                    company['week'],
+                                    company['month'],
+                                    company['year']
+                                ], 
+                                backgroundColor: `rgba(${r}, ${g}, ${b}, 0.2)`,
+                                borderColor: `rgba(${r}, ${g}, ${b}, 1)`,
+                                borderWidth: 1,
+                                hidden: true,
+                            });
+                            count++;
+                        }
+                    );
+                    var ctx = document.getElementById('myChart');
+                    var myChart = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            // hidden=true,
+                            labels: ['Day', 'Week', 'Month', 'Year'],
+                            datasets: companies,
+                        },
+                        options: {
+                            title: {
+                                display: true,
+                                text: 'Annualized Return',
+                                fontSize: 38,
+                            },
+                            scales: {
+                                yAxes: [{
+                                    ticks: {
+                                        beginAtZero: true
+                                    }
+                                }]
+                            },
+                        },
+                        // hidden=true
+                    });
+                </script>
+            </div></div>
+            <div id="top" class="w3-container w3-display-container city"><div class="tabs_panel" name="tabs_panel">
+                <div class="twitter_panel bottom-fix" name="twitter_panel">
+                    <p class='category-title'>{{ twitter_key_1}}</p>
+                    {% for post in twitter_top_1 %}
+                    <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; color: white; background-color: #909090 ; cursor: pointer;">
+                        {{ post['Text']}}
+                    </div>
+                    <div style="font-size: 8pt; text-align: justify; color:white
+                    ">
+                     &ensp;Time &ensp;:&ensp;{{ post['Time']}}  <br/> &ensp; Name&ensp;:&ensp;{{ post['Name']}}
+                    </div>
+                    {% endfor %}
+                </div>
+                <div class="twitter_panel" name="twitter_panel">
+                    <p class='category-title'>{{ twitter_key_2}}</p>
+                    {% for post in twitter_top_2 %}
+                    <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; background-color: #909090 ; cursor: pointer;">
+                        {{ post['Text']}}
+                    </div>
+                    <div style="font-size: 8pt; text-align: justify; color:white">
+                     &ensp;Time &ensp;:&ensp;{{ post['Time']}}  <br/> &ensp; Name&ensp;:&ensp;{{ post['Name']}}
+                    </div>
+                    {% endfor %}
+                </div>
+                <div class="twitter_panel" name="twitter_panel">
+                    <p class='category-title'>{{ twitter_key_3}}</p>
+                    {% for post in twitter_top_3 %}
+                    <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; background-color: #909090 ; cursor: pointer;">
+                        {{ post['Text']}}
+                    </div>
+                    <div style="font-size: 8pt; text-align: justify; color:white">
+                     &ensp;Time &ensp;:&ensp;{{ post['Time']}}  <br/> &ensp; Name&ensp;:&ensp;{{ post['Name']}}
+                    </div>
+                    {% endfor %}
+                </div>
+                <div class="twitter_panel" name="twitter_panel">
+                    <p class='category-title'>{{ twitter_key_4}}</p>
+                    {% for post in twitter_top_4 %}
+                    <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; background-color: #909090 ; cursor: pointer;">
+                        {{ post['Text']}}
+                    </div>
+                    <div style="font-size: 8pt; text-align: justify; color:white">
+                     &ensp;Time &ensp;:&ensp;{{ post['Time']}}  <br/> &ensp; Name&ensp;:&ensp;{{ post['Name']}}
+                    </div>
+                    {% endfor %}
+                </div>
+            </div></div>
+
+            <div id="celeb1" class="w3-container w3-display-container city"><div class="tabs_panel" name="tabs_panel">
+                <div class="twitter_panel_1" name="twitter_panel">
+                    {% for post in twitter_pop_1 %}
+                        <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; background-color: #909090 ; cursor: pointer;">
+                            {{ post['Text']}}
+                        </div>
+                        <div style="font-size: 8pt; text-align: justify; color:white">
+                         &ensp;Time &ensp;:&ensp;{{ post['Time']}}  <br/> &ensp; Name&ensp;:&ensp;{{ post['Name']}}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div></div>
+
+            <div id="celeb2" class="w3-container w3-display-container city"><div class="tabs_panel" name="tabs_panel">
+                <div class="twitter_panel_1" name="twitter_panel">
+                    {% for post in twitter_pop_2 %}
+                    <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; background-color: #909090 ; cursor: pointer;">
+                        {{ post['Text']}}
+                    </div>
+                    <div style="font-size: 8pt; text-align: justify; color:white">
+                     &ensp;Time &ensp;:&ensp;{{ post['Time']}}  <br/> &ensp; Name&ensp;:&ensp;{{ post['Name']}}
+                    </div>
+                    {% endfor %}
+                </div>
+            </div></div>
+
+            <div id="celeb3" class="w3-container w3-display-container city"><div class="tabs_panel" name="tabs_panel">
+                <div class="twitter_panel_1" name="twitter_panel">
+                    {% for post in twitter_pop_3 %}
+                    <div style="font-size: 10pt; text-align: justify; color:white; text-decoration: none; margin: 1px; padding: 9px; background-color: #909090 ; cursor: pointer;">
+                        {{ post['Text']}}
+                    </div>
+                    <div style="font-size: 8pt; text-align: justify; color:white">
+                     &ensp;Time &ensp;:&ensp;{{ post['Time']}}  <br/> &ensp; Name&ensp;:&ensp;{{ post['Name']}}
+                    </div>
+                    {% endfor %}
+                </div>
+            </div></div>
+
+            <script>
+            function openCity(cityName) {
+              var i;
+              var x = document.getElementsByClassName("city");
+              for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";  
+              }
+              document.getElementById(cityName).style.display = "block";  
+            }
+            </script>
+
+        </div>
+    </body>
+</html>
+
+{% block script %}
+<script>
+function submit_message(obj, tab) {
+        var entry = {
+            title: obj['title'],
+            url: obj['link'],
+            tab: tab
+        };
+
+        fetch(`${window.origin}/log/create-entry`, {
+            method: "POST",
+            credentials: "include",
+            body: JSON.stringify(entry),
+            cache: "no-cache",
+            headers: new Headers({
+              "content-type": "application/json"
+            })
+          })
+          .then(function(response) {
+            if (response.status !== 200) {
+              console.log(`Looks like there was a problem. Status code: ${response.status}`);
+              return;
+            }
+            response.json().then(function(data) {
+              console.log(data);
+            });
+          })
+          .catch(function(error) {
+            console.log("Fetch error: " + error);
+        });
+    }
+</script>
+{% endblock %}

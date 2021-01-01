@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:metadata="http://search.cnbc.com/rss/2.0/modules/siteContentMetadata" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.cnbc.com/id/100370673/device/rss/rss.html"/>
+    <language>en-us</language>
+    <ttl>60</ttl>
+    <title>Commentary</title>
+    <feed_asset>
+      <id>100370673</id>
+      <type>franchise</type>
+      <subtype>section</subtype>
+      <seo>https://www.cnbc.com/commentary/</seo>
+    </feed_asset>
+    <lastBuildDate>Tue, 05 May 2020 17:04 GMT</lastBuildDate>
+    <pubDate>Tue, 05 May 2020 17:04 GMT</pubDate>
+    <link>https://www.cnbc.com/commentary/</link>
+    <description><![CDATA[Find the latest opinion and commentary on politics, the economy, social issues and government from our blogs and around the web.]]></description>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/this-is-how-many-furloughed-main-street-employees-will-get-jobs-back.html</link>
+      <guid isPermaLink="false">106520909</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106520909</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>This is how many furloughed Main Street employees will get jobs back</title>
+      <description><![CDATA[As the economy reopens from the coronavirus shock, not all small business jobs held on Main Street will be coming back, not even by a long shot, according to the Q2 2020 CNBC|SurveyMonkey Small Business Survey.]]></description>
+      <pubDate>Tue, 05 May 2020 16:49:01 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/05/main-street-fears-new-regulation-in-coronavirus-economic-reopening.html</link>
+      <guid isPermaLink="false">106518972</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106518972</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>One of Main Street&apos;s biggest fears in economic reopening — new regulations</title>
+      <description><![CDATA[As small businesses across the country grapple with economic reopening, one of their biggest fears is that new regulations will be a net negative for post-Covid-19 Main Street.]]></description>
+      <pubDate>Tue, 05 May 2020 12:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/04/coronavirus-relief-local-bars-and-restaurants-face-extinction.html</link>
+      <guid isPermaLink="false">106512618</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106512618</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-Ed: Local bars and restaurants face extinction because of coronavirus – and government needs to step up</title>
+      <description><![CDATA[Independent bars and restaurants found some relief in the Paycheck Protection Program, which offers low interest, short-term loans with the potential of forgiveness. That is not nearly enough, writes author and bar owner Derek Brown.]]></description>
+      <pubDate>Mon, 04 May 2020 21:10:39 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/05/02/op-ed-china-has-a-big-chance-to-speed-its-way-to-global-leadership.html</link>
+      <guid isPermaLink="false">106516893</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106516893</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: China has a big but brief chance right now to speed its way to global leadership</title>
+      <description><![CDATA[Covid-19 has revealed more clearly than ever before the nature and relentlessness of the ruling Chinese Communist Party's ambition to place itself at the center of global power and influence.]]></description>
+      <pubDate>Mon, 04 May 2020 17:39:57 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/30/op-ed-the-market-comeback-seems-callous-but-investors-are-betting-on-a-bright-post-crisis-future.html</link>
+      <guid isPermaLink="false">106514541</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106514541</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: The market comeback seems callous, but investors are betting on a bright post-crisis future</title>
+      <description><![CDATA[Stocks have risen swiftly as investors look beyond the coronavirus pandemic, but millions of Americans continue to suffer unemployment and sickness.]]></description>
+      <pubDate>Thu, 30 Apr 2020 18:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/29/coronavirus-uk-britain-needs-an-economic-model-for-lockdown-easing.html</link>
+      <guid isPermaLink="false">106511977</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106511977</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-Ed: Britain needs an economic model to guide the lifting of the coronavirus lockdown</title>
+      <description><![CDATA[Covid-19 has forced epidemiology and economics to become intertwined as never before.]]></description>
+      <pubDate>Wed, 29 Apr 2020 13:15:55 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/29/op-ed-pandemic-moves-modern-monetary-theory-from-the-fringes-to-actual-us-policy.html</link>
+      <guid isPermaLink="false">106511513</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106511513</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: Pandemic moves Modern Monetary Theory from the fringes to actual US policy</title>
+      <description><![CDATA[The total amount of government economic aid in response to the coronavirus downturn is expected to exceed $10 trillion.]]></description>
+      <pubDate>Wed, 29 Apr 2020 11:31:16 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/26/the-ppp-isnt-working-heres-a-better-idea-paycheck-guarantees.html</link>
+      <guid isPermaLink="false">106505285</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106505285</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: The PPP isn&apos;t working. Here&apos;s an idea — get paychecks to people, directly</title>
+      <description><![CDATA[The short-term pain of job losses, furloughed and unemployed workers in food bank lines miles long, may lead to worse long-term effects: a deep, permanent dent on America's competitiveness.]]></description>
+      <pubDate>Sun, 26 Apr 2020 14:29:44 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/26/big-oil-crisis-caused-by-coronavirus-may-be-irreversible.html</link>
+      <guid isPermaLink="false">106505153</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106505153</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: For Big Oil, this crisis will be different, and it may be irreversible</title>
+      <description><![CDATA[Oil and gas companies delayed in transitioning from fossil fuels and lost investors. The oil price crash caused by the coronavirus threatens to make this shift permanent.]]></description>
+      <pubDate>Sun, 26 Apr 2020 13:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/25/op-ed-how-the-us-could-use-the-covid-19-crisis-to-reimagine-energy.html</link>
+      <guid isPermaLink="false">106505991</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106505991</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: How the US can use the Covid-19 crisis to reimagine the energy world, save jobs and stabilize markets</title>
+      <description><![CDATA[The U.S. role as the world's leading oil and gas producer doesn't feel as empowering as it recently did, with oil prices heading into negative territory for the first time ever this week.]]></description>
+      <pubDate>Mon, 27 Apr 2020 11:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/24/op-ed-the-contraction-isnt-over-and-it-may-take-a-long-time-to-get-used-to-it.html</link>
+      <guid isPermaLink="false">106503604</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106503604</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: The contraction isn&apos;t over and it may take time to get used to a different world</title>
+      <description><![CDATA[It could take years for the world to recover from a significant economic contraction, and it will look different than the world we knew in January.]]></description>
+      <pubDate>Fri, 24 Apr 2020 13:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/21/op-ed-recovering-from-this-unprecedented-oil-crash-could-take-years-and-may-not-benefit-saudi-or-russian-producers.html</link>
+      <guid isPermaLink="false">106498976</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106498976</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: Recovering from this unprecedented oil crash could take years and may not benefit Saudi or Russian producers</title>
+      <description><![CDATA[Saudi Arabia and Russia aim to inflict pain on American producers, forcing them to shutter wells and give up the market share.]]></description>
+      <pubDate>Tue, 21 Apr 2020 17:06:32 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/21/op-ed-investors-will-reward-companies-that-take-care-of-others-in-the-coronavirus-pandemic.html</link>
+      <guid isPermaLink="false">106498655</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106498655</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: Investors will reward companies that take care of others in the coronavirus pandemic</title>
+      <description><![CDATA[Acts of charity, compassion, and creative generosity may resonate with investors increasingly drawn to socially responsible investing.]]></description>
+      <pubDate>Tue, 21 Apr 2020 15:18:34 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/18/op-ed-how-us-can-win-the-post-coronavirus-race-for-global-dominance.html</link>
+      <guid isPermaLink="false">106494658</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106494658</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: How the US can win the post-coronavirus race for global dominance</title>
+      <description><![CDATA[Beijing could still leverage its first-mover advantage – alongside a faster economic recovery across Asian markets – accelerating the trend toward a Chinese-centric globalization, writes Fred Kempe.]]></description>
+      <pubDate>Tue, 21 Apr 2020 18:37:52 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/17/op-ed-we-havent-shaken-the-rust-off-the-rust-belt.html</link>
+      <guid isPermaLink="false">106494156</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106494156</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-Ed: We haven&apos;t shaken the rust off the Rust Belt</title>
+      <description><![CDATA[As congressional Democrats look to a fourth stimulus package to help the economy slowly recover from the effects of Covid-19, the needs of rural America and Rust Belt states must be included, writes Heidi Heitkamp.]]></description>
+      <pubDate>Fri, 17 Apr 2020 19:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/17/op-ed-getting-employees-back-to-work-as-coronavirus-outbreak-slows.html</link>
+      <guid isPermaLink="false">106494150</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106494150</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-Ed: The smart way to get US employees back to work</title>
+      <description><![CDATA[Missing in the planning to return to work is a response to a very fundamental challenge: How do we ensure that the return to economic activity better positions American workers for success, writes Zoe Baird and David Marsh.]]></description>
+      <pubDate>Fri, 17 Apr 2020 18:59:31 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/16/why-financial-literacy-matters-in-an-economic-crisis.html</link>
+      <guid isPermaLink="false">106489516</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106489516</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: Why financial literacy matters in an economic crisis</title>
+      <description><![CDATA[A new survey finds nearly 9 in 10 Americans say the COVID-19 crisis is causing stress on their personal finances, highlighting the importance of financial literacy.]]></description>
+      <pubDate>Thu, 16 Apr 2020 15:01:10 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/16/op-ed-to-help-main-street-businesses-look-to-main-street-banks.html</link>
+      <guid isPermaLink="false">106490639</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106490639</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: To help Main Street businesses, look to Main Street banks</title>
+      <description><![CDATA[Local community banks were among the most prepared and willing to step up during these unprecedented times, releasing loans far earlier than many of their Wall Street counterparts.]]></description>
+      <pubDate>Thu, 16 Apr 2020 13:07:57 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/13/stock-buybacks-the-new-litmus-test-we-need-after-the-bailouts.html</link>
+      <guid isPermaLink="false">106478819</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106478819</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Stock buybacks: We need a new litmus test after the bailouts</title>
+      <description><![CDATA[A government bailout of companies due to the coronavirus has led to criticism after a record decade of stock buybacks. Companies that can't manage cash flow deserve the attacks.]]></description>
+      <pubDate>Mon, 13 Apr 2020 16:57:48 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/13/heres-what-we-can-expect-from-earnings-season-as-companies-ride-out-the-coronavirus-pandemic.html</link>
+      <guid isPermaLink="false">106485872</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106485872</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Coronavirus-earnings season: What to expect as companies begin to report Tuesday</title>
+      <description><![CDATA[Companies in every sector face challenges giving forward-looking guidance in a pandemic that remains unpredictable.]]></description>
+      <pubDate>Mon, 13 Apr 2020 15:00:45 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/09/op-ed-sba-chief-pledges-every-available-resource-to-aid-small-businesses.html</link>
+      <guid isPermaLink="false">106482554</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106482554</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-Ed: SBA chief pledges &apos;every available resource&apos; to aid small businesses</title>
+      <description><![CDATA[All small businesses are eligible, including non-profits, self-employed individuals, sole proprietorships, and independent contractors, writes SBA Administrator Jovita Carranza.]]></description>
+      <pubDate>Thu, 09 Apr 2020 18:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/09/op-ed-dont-ruin-the-feds-great-work-by-rushing-economy-back-before-its-safe.html</link>
+      <guid isPermaLink="false">106482258</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106482258</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: Don&apos;t ruin the Fed&apos;s great work by rushing economy back before it&apos;s safe</title>
+      <description><![CDATA[A rush to open the economy could cause a second wave of infections, even as the Corona curve is flattening and possibly rolling over.]]></description>
+      <pubDate>Thu, 09 Apr 2020 18:55:06 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/09/these-are-the-three-big-things-to-focus-on-from-opec-and-the-g-20-meetings-over-the-next-48-hours.html</link>
+      <guid isPermaLink="false">106482127</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106482127</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>These are the three big things to focus on from OPEC and the G-20 meetings over the next 48 hours</title>
+      <description><![CDATA[These are the three things to focus on from OPEC and the G-20 meetings over the next 48 hours to discuss global energy markets.]]></description>
+      <pubDate>Thu, 09 Apr 2020 20:01:42 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/08/op-ed-cancer-surgeries-and-organ-transplants-are-being-put-off-for-coronavirus.html</link>
+      <guid isPermaLink="false">106480868</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106480868</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-Ed: Cancer surgeries and organ transplants are being put off for coronavirus</title>
+      <description><![CDATA[In a given month, more than a million people have some kind of surgery. The elective procedures being postponed because of coronavirus aren't all optional. Cancer patients and organ recipients are being forced to wait.]]></description>
+      <pubDate>Wed, 08 Apr 2020 20:18:05 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/08/op-ed-corporate-leadership-means-putting-lives-first.html</link>
+      <guid isPermaLink="false">106480366</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106480366</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-ed: Corporate leadership means putting lives first</title>
+      <description><![CDATA[Health experts should be driving the timeline while corporate America and government work together to get the economy through this pandemic.]]></description>
+      <pubDate>Thu, 23 Apr 2020 21:53:10 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/07/the-rally-is-running-out-of-steam-and-for-good-reason.html</link>
+      <guid isPermaLink="false">106479203</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106479203</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>The rally is running out of steam, and for good reason</title>
+      <description><![CDATA[The stock market gave up massive gains on Tuesday, and stocks have gone from dramatically oversold to no longer oversold, at least on a short-term level.]]></description>
+      <pubDate>Wed, 08 Apr 2020 00:13:16 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/06/opinion-hollywood-couldnt-script-a-plotline-like-whats-happening-in-oil-right-now.html</link>
+      <guid isPermaLink="false">106476962</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106476962</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Opinion: Hollywood couldn&apos;t script a plotline like what&apos;s happening in oil right now</title>
+      <description><![CDATA[Keeping up with all the recent twists and turns in the oil market is difficult. Here's where things stand as what could be a pivotal week gets underway.]]></description>
+      <pubDate>Tue, 07 Apr 2020 15:20:07 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/06/op-ed-us-and-russia-should-work-together-to-defeat-coronavirus.html</link>
+      <guid isPermaLink="false">106475801</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106475801</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-Ed: The US and Russia should work together to defeat the coronavirus</title>
+      <description><![CDATA[Despite many differences, Russia and the United States have a lot in common.]]></description>
+      <pubDate>Mon, 06 Apr 2020 05:01:27 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/05/op-ed-the-us-oil-industry-is-more-likely-to-be-saved-by-a-government-bailout-than-by-opec.html</link>
+      <guid isPermaLink="false">106475619</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106475619</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-Ed: The US oil industry is more likely to be saved by a government bailout than by OPEC</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Sun, 05 Apr 2020 17:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <link>https://www.cnbc.com/2020/04/05/op-ed-bailouts-should-come-with-strings-attached-so-taxpayers-can-profit-from-recovery.html</link>
+      <guid isPermaLink="false">106473982</guid>
+      <metadata:type>cnbcnewsstory</metadata:type>
+      <metadata:id>106473982</metadata:id>
+      <metadata:sponsored>false</metadata:sponsored>
+      <title>Op-Ed: Bailouts should come with strings attached so taxpayers can profit from recovery</title>
+      <description><![CDATA[Airlines, hotels and casinos, which employ millions of Americans, are turning to the U.S. government for help, but bailouts should come with conditions.]]></description>
+      <pubDate>Sun, 05 Apr 2020 16:22:04 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
